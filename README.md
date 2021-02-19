@@ -1,7 +1,8 @@
 # GIT Exercise 1
 
 Download the git software from the website below:
-[[https://git-scm.com/download/win]]
+https://git-scm.com/download/win
+
 Install it!
 
 In your start menu, search for "Git Bash"
