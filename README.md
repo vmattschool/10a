@@ -20,7 +20,7 @@ Clone (basically download) the repository to your computer
 - Provide your username and password 
 - After successful login, the cloned folder is located in C:\Users\[yourUserName]\10a 
 
-Enter the folder in Git Bash with the command //cd//:
+Enter the folder in Git Bash with the command cd:
 
 ``cd 10a``
 
