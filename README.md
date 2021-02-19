@@ -1,11 +1,13 @@
 # GIT Exercise 1
 
 Download the git software from the website below:
-[[https://git-scm.com/download/win]]
+https://git-scm.com/download/win
+
 Install it!
 
-In your start menu, search for "Git Bash"
+In your start menu, search for "Git Bash" <br>_If you don't have Git Bash, you can use cmd.exe too._
 Run the following commands to define your email address and name for later git commands.
+
 
 ``git config --global user.email "iskolai.email.cimed@vajdasuli.hu" ``
 
@@ -20,7 +22,7 @@ Clone (basically download) the repository to your computer
 - Provide your username and password 
 - After successful login, the cloned folder is located in C:\Users\[yourUserName]\10a 
 
-Enter the folder in Git Bash with the command //cd//:
+Enter the folder in Git Bash with the command cd:
 
 ``cd 10a``
 
