@@ -5,8 +5,9 @@ https://git-scm.com/download/win
 
 Install it!
 
-In your start menu, search for "Git Bash"
+In your start menu, search for "Git Bash" <br>_If you don't have Git Bash, you can use cmd.exe too._
 Run the following commands to define your email address and name for later git commands.
+
 
 ``git config --global user.email "iskolai.email.cimed@vajdasuli.hu" ``
 
