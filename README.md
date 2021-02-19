@@ -18,11 +18,11 @@ Clone (basically download) the repository to your computer
 
 ``git clone https://github.com/vmattschool/10a.git``
 
-If you already cloned the repository, enter to the folder with `` cd 10a `` and use command `` git pull `` to refresh files on your computer.
-
 - Sign in with your Browser 
 - Provide your username and password 
 - After successful login, the cloned folder is located in C:\Users\[yourUserName]\10a 
+
+**If you already cloned the repository, enter to the folder with `` cd 10a `` and use command `` git pull `` to refresh files on your computer.**
 
 Enter the folder in Git Bash with the command cd:
 
