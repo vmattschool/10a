@@ -18,6 +18,8 @@ Clone (basically download) the repository to your computer
 
 ``git clone https://github.com/vmattschool/10a.git``
 
+If you already cloned the repository, enter to the folder with `` cd 10a `` and use command `` git pull `` to refresh files on your computer.
+
 - Sign in with your Browser 
 - Provide your username and password 
 - After successful login, the cloned folder is located in C:\Users\[yourUserName]\10a 
@@ -31,6 +33,8 @@ Enter the folder in Git Bash with the command cd:
   - Create a .txt file **with your name**. (Right Click - New - New Text Document (Jobbklikk, új, Új szöveges dokumentum)
 
 Switch back to the Git Bash window, enter command 
+
+
 
 `` git add . ``
 
