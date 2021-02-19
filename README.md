@@ -43,4 +43,4 @@ But if you want to upload it, one more command is needed:
 
 ``git push ``
 
-If there's any error message, ask me on [[https://www.facebook.com/valko2|Facebook]]!
+If there's any error message, ask me on https://www.facebook.com/valko2!
